@@ -1,2 +1,2 @@
 # my-1st-website
-https://rezwanhossainsajib.blogspot.com/#about
+https://rezwanhossainsajib.blogspot.com/
