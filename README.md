@@ -1,2 +1,2 @@
 # my-1st-website
-file:///C:/Users/Shamima%20binte%20Rashid/Downloads/sssssss/my/index%20(3).html
+https://shamima1998.github.io/my-1st-website/
